@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Phudu&display=swap');
+body{
+    font-family: 'Mooli', sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
+}
+.right{
+    text-align: right;
+}
