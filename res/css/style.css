@@ -1,6 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Phudu&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Phudu&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 body{
-    font-family: 'Mooli', sans-serif;
+    /*font-family: 'Mooli', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
 }
 a{
     color: black;
@@ -12,4 +15,7 @@ a:hover{
 }
 .right{
     text-align: right;
+}
+.tx-center{
+    text-align: center;
 }
